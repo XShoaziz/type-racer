@@ -12,7 +12,7 @@ const Timer = () => {
   return (
     <div>
       <TimerDiv>
-        <h3>The race is on! start Type the text below:</h3>
+        <h3>The race is on! startt Type the text below:</h3>
         <p>Symbols : {this.state.symbols}</p>
         <p>Time : {this.state.sec}</p>
       </TimerDiv>
