@@ -38,7 +38,7 @@ const Race = () => {
           you'd like some competition.
         </p>
         <TimerDiv>
-          <h3>The race iss onnn! Type the text below:</h3>
+          <h3>The race iss Xusanov__Sh onnn! Type the text below:</h3>
           <p>Symbols : {symbols}</p>
           <p>1:15</p>
         </TimerDiv>
