@@ -39,10 +39,8 @@ const Race = () => {
         </p>
         <TimerDiv>
           <h3>
-            The race iss Xusanov__Sh hi hi hi,hi hi salom 
-            salom
-            1 onnn! Type the text
-            below:
+            The race iss Xusanov__Sh hi hi hi,hi hi salom salomm 1 onnn! Type
+            the text below:
           </h3>
           <p>Symbols : {symbols}</p>
           <p>1:15</p>
